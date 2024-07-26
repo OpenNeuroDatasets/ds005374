@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-01_bold.nii.gz	2022-05-18T13:04:04.445000	Douglas Garrett	92d816c0
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-02_bold.nii.gz	2022-05-18T13:08:56.860000	Douglas Garrett	cb980967
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-03_bold.nii.gz	2022-05-18T13:13:41.682500	Douglas Garrett	c56ee2f7
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-04_bold.nii.gz	2022-05-18T13:18:35.820000	Douglas Garrett	77c0a159
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-05_bold.nii.gz	2022-05-18T13:23:28.275000	Douglas Garrett	5b1ee304
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-06_bold.nii.gz	2022-05-18T13:28:25.180000	Douglas Garrett	a41bb68e
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-07_bold.nii.gz	2022-05-18T13:33:18.785000	Douglas Garrett	f9e55646
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-08_bold.nii.gz	2022-05-18T13:38:12.215000	Douglas Garrett	afb8cf90
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-09_bold.nii.gz	2022-05-18T13:43:10.970000	Douglas Garrett	20ca910a
+func/sub-llmkdl_ses-02_task-1_acq-MB4_run-10_bold.nii.gz	2022-05-18T13:48:09.012500	Douglas Garrett	9cc11225
+func/sub-llmkdl_ses-02_task-loc_acq-MB4_run-01_bold.nii.gz	2022-05-18T13:53:43.457500	Douglas Garrett	4bcf4dc4
+func/sub-llmkdl_ses-02_task-loc_acq-MB4_run-02_bold.nii.gz	2022-05-18T13:58:59.227500	Douglas Garrett	2224eaa3
+fmap/sub-llmkdl_ses-02_acq-MB4gre_dir-AP_epi.nii.gz	2022-05-18T14:04:13.735000	Douglas Garrett	9fc6d9ce
+fmap/sub-llmkdl_ses-02_acq-MB4gre_dir-PA_epi.nii.gz	2022-05-18T14:04:58.780000	Douglas Garrett	ca1a8979

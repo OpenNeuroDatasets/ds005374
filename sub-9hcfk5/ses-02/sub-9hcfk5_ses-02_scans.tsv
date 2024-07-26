@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-01_bold.nii.gz	2022-05-05T13:08:04.815000	Dr. Simone Kühn	af97c524
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-02_bold.nii.gz	2022-05-05T13:12:51.230000	Dr. Simone Kühn	dfdc95cc
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-03_bold.nii.gz	2022-05-05T13:17:44.402500	Dr. Simone Kühn	864b3e52
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-04_bold.nii.gz	2022-05-05T13:22:37.745000	Dr. Simone Kühn	2dbc922a
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-05_bold.nii.gz	2022-05-05T13:27:31.302500	Dr. Simone Kühn	3c7a93a7
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-06_bold.nii.gz	2022-05-05T13:32:29.172500	Dr. Simone Kühn	361d6677
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-07_bold.nii.gz	2022-05-05T13:37:27.220000	Dr. Simone Kühn	3b66d630
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-08_bold.nii.gz	2022-05-05T13:42:26.465000	Dr. Simone Kühn	1dc16e1b
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-09_bold.nii.gz	2022-05-05T13:47:25.402500	Dr. Simone Kühn	8fd80fa4
+func/sub-9hcfk5_ses-02_task-1_acq-MB4_run-10_bold.nii.gz	2022-05-05T13:52:23.955000	Dr. Simone Kühn	c48b8f27
+func/sub-9hcfk5_ses-02_task-loc_acq-MB4_run-01_bold.nii.gz	2022-05-05T13:58:15.617500	Dr. Simone Kühn	4b6e023e
+func/sub-9hcfk5_ses-02_task-loc_acq-MB4_run-02_bold.nii.gz	2022-05-05T14:03:24.945000	Dr. Simone Kühn	8bdebf77
+fmap/sub-9hcfk5_ses-02_acq-MB4gre_dir-AP_epi.nii.gz	2022-05-05T14:08:46.212500	Dr. Simone Kühn	9d959bd3
+fmap/sub-9hcfk5_ses-02_acq-MB4gre_dir-PA_epi.nii.gz	2022-05-05T14:09:28.647500	Dr. Simone Kühn	b4997a28

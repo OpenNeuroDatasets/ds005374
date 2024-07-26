@@ -1,0 +1,16 @@
+filename	acq_time	operator	randstr
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-01_bold.nii.gz	2022-08-29T13:32:51.732500	Dr. Douglas Garrett	2aee2896
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-02_bold.nii.gz	2022-08-29T13:37:49.747500	Dr. Douglas Garrett	47a279ea
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-03_bold.nii.gz	2022-08-29T13:42:50.307500	Dr. Douglas Garrett	42c127dd
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-04_bold.nii.gz	2022-08-29T13:47:59.595000	Dr. Douglas Garrett	18e13885
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-05_bold.nii.gz	2022-08-29T13:54:40.780000	Dr. Douglas Garrett	07e1d4b2
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-06_bold.nii.gz	2022-08-29T14:02:17.295000	Dr. Douglas Garrett	3a057668
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-07_bold.nii.gz	2022-08-29T14:07:13.485000	Dr. Douglas Garrett	3f6aae83
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-08_bold.nii.gz	2022-08-29T14:12:54.172500	Dr. Douglas Garrett	37623726
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-09_bold.nii.gz	2022-08-29T14:18:02.090000	Dr. Douglas Garrett	a823417e
+func/sub-8pakuj_ses-02_task-1_acq-MB4_run-10_bold.nii.gz	2022-08-29T14:23:14.447500	Dr. Douglas Garrett	bd5f5946
+func/sub-8pakuj_ses-02_task-loc_acq-MB4_run-01_bold.nii.gz	2022-08-29T14:29:01.722500	Dr. Douglas Garrett	84d1809f
+func/sub-8pakuj_ses-02_task-loc_acq-MB4_run-02_bold.nii.gz	2022-08-29T14:34:59.557500	Dr. Douglas Garrett	04bae763
+fmap/sub-8pakuj_ses-02_acq-MB4gre_dir-AP_epi.nii.gz	2022-08-29T14:40:25.950000	Dr. Douglas Garrett	b73d9484
+fmap/sub-8pakuj_ses-02_acq-MB4gre_dir-PA_epi.nii.gz	2022-08-29T14:41:07.622500	Dr. Douglas Garrett	01248e5f
+anat/sub-8pakuj_ses-02_acq-defaced_T1w.nii.gz	2022-08-29T14:42:26.650000	Dr. Douglas Garrett	91d95551
