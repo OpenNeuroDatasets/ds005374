@@ -1,0 +1,14 @@
+filename	acq_time	operator	randstr
+anat/sub-nxe874_ses-01_acq-defaced_T1w.nii.gz	2022-08-17T09:06:50.885000	Dr. Douglas Garrett	0e150457
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-01_bold.nii.gz	2022-08-17T09:18:35.545000	Dr. Douglas Garrett	92cdf7e6
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-02_bold.nii.gz	2022-08-17T09:23:42.742500	Dr. Douglas Garrett	4feea2c9
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-03_bold.nii.gz	2022-08-17T09:30:17.185000	Dr. Douglas Garrett	916e25dc
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-04_bold.nii.gz	2022-08-17T09:35:26.665000	Dr. Douglas Garrett	732951b4
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-05_bold.nii.gz	2022-08-17T09:41:47.107500	Dr. Douglas Garrett	f9dc1c5e
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-06_bold.nii.gz	2022-08-17T09:47:32.440000	Dr. Douglas Garrett	ff82b627
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-07_bold.nii.gz	2022-08-17T09:54:34.030000	Dr. Douglas Garrett	d8b223cc
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-08_bold.nii.gz	2022-08-17T09:59:55.910000	Dr. Douglas Garrett	338d8d6c
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-09_bold.nii.gz	2022-08-17T10:06:58.577500	Dr. Douglas Garrett	18436c0b
+func/sub-nxe874_ses-01_task-1_acq-MB4_run-10_bold.nii.gz	2022-08-17T10:12:25.560000	Dr. Douglas Garrett	417a6577
+fmap/sub-nxe874_ses-01_acq-MB4gre_dir-AP_epi.nii.gz	2022-08-17T10:17:28.385000	Dr. Douglas Garrett	d3627f23
+fmap/sub-nxe874_ses-01_acq-MB4gre_dir-PA_epi.nii.gz	2022-08-17T10:18:17.315000	Dr. Douglas Garrett	cb469a68

@@ -1,0 +1,14 @@
+filename	acq_time	operator	randstr
+anat/sub-8pakuj_ses-01_acq-defaced_T1w.nii.gz	2022-08-17T16:07:43.307500	Douglas Garrett	13836707
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-01_bold.nii.gz	2022-08-17T16:16:34.375000	Douglas Garrett	809496dd
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-02_bold.nii.gz	2022-08-17T16:21:45.357500	Douglas Garrett	766d850b
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-03_bold.nii.gz	2022-08-17T16:27:07.440000	Douglas Garrett	fd21f7ee
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-04_bold.nii.gz	2022-08-17T16:33:40.960000	Douglas Garrett	eb0457a3
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-05_bold.nii.gz	2022-08-17T16:38:50.307500	Douglas Garrett	753e3341
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-06_bold.nii.gz	2022-08-17T16:44:27.860000	Douglas Garrett	64d1b882
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-07_bold.nii.gz	2022-08-17T16:49:38.985000	Douglas Garrett	fd986b14
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-08_bold.nii.gz	2022-08-17T16:56:12.500000	Douglas Garrett	ac199870
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-09_bold.nii.gz	2022-08-17T17:01:26.437500	Douglas Garrett	818be1a7
+func/sub-8pakuj_ses-01_task-1_acq-MB4_run-10_bold.nii.gz	2022-08-17T17:06:49.577500	Douglas Garrett	a39170bd
+fmap/sub-8pakuj_ses-01_acq-MB4gre_dir-AP_epi.nii.gz	2022-08-17T17:12:26.785000	Douglas Garrett	01bb44c5
+fmap/sub-8pakuj_ses-01_acq-MB4gre_dir-PA_epi.nii.gz	2022-08-17T17:13:11.357500	Douglas Garrett	cc1cdb1f

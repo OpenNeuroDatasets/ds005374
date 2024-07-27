@@ -1,0 +1,14 @@
+filename	acq_time	operator	randstr
+anat/sub-yqldm7_ses-01_acq-defaced_T1w.nii.gz	2022-05-24T09:34:44.032500	Dr. Simone Kühn	e149df0c
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-01_bold.nii.gz	2022-05-24T09:41:55.805000	Dr. Simone Kühn	b2ffc9c4
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-02_bold.nii.gz	2022-05-24T09:47:01.150000	Dr. Simone Kühn	50429e69
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-03_bold.nii.gz	2022-05-24T09:52:11.267500	Dr. Simone Kühn	b3842d2d
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-04_bold.nii.gz	2022-05-24T09:57:18.202500	Dr. Simone Kühn	5cd56e0a
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-05_bold.nii.gz	2022-05-24T10:02:24.047500	Dr. Simone Kühn	a0725b2a
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-06_bold.nii.gz	2022-05-24T10:09:37.387500	Dr. Simone Kühn	e62db1fa
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-07_bold.nii.gz	2022-05-24T10:14:45.267500	Dr. Simone Kühn	69bcb5bc
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-08_bold.nii.gz	2022-05-24T10:19:53.180000	Dr. Simone Kühn	57656898
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-09_bold.nii.gz	2022-05-24T10:27:11.892500	Dr. Simone Kühn	48178fc6
+func/sub-yqldm7_ses-01_task-1_acq-MB4_run-10_bold.nii.gz	2022-05-24T10:32:24.445000	Dr. Simone Kühn	0c059d46
+fmap/sub-yqldm7_ses-01_acq-MB4gre_dir-AP_epi.nii.gz	2022-05-24T10:37:40.737500	Dr. Simone Kühn	88faa8bf
+fmap/sub-yqldm7_ses-01_acq-MB4gre_dir-PA_epi.nii.gz	2022-05-24T10:38:23.407500	Dr. Simone Kühn	3a3a6de0
